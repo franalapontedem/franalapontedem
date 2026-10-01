@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Fran Alapont Sánchez — Master's student at EDEM" width="100%" />
+  <img src="header.svg" alt="Fran Alapont Sánchez — Master's student at EDEM" width="100%" />
 
   <br />
 
