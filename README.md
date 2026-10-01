@@ -1,4 +1,8 @@
 <div align="center">
+<<<<<<< HEAD
+=======
+  <img src="./assets/banner.svg" alt="Fran Alapont Sánchez — Master's student at EDEM" width="100%" />
+>>>>>>> parent of 5f0c468 (Change banner image source in README)
 
 <h1>👋 Hey there, I'm Fran Alapont Sánchez</h1>
 
