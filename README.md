@@ -1,6 +1,5 @@
 <div align="center">
-=======
-  <img src="header.svg" alt="Fran Alapont Sánchez — Master's student at EDEM" width="100%" />
+<img src="header.svg" alt="Fran Alapont Sánchez — Master's student at EDEM" width="100%" />
 
 
 <h1>👋 Hey there, I'm Fran Alapont Sánchez</h1>
