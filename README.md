@@ -43,13 +43,3 @@ Feel free to explore my repositories and follow along with what I'm building and
 <a href="https://github.com/franalapontedem?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/franalapontedem?style=for-the-badge&amp;color=6554d6&amp;labelColor=1b2340&amp;logo=github" /></a>
 
 </div>
-
----
-
-## 👋 About me
-
-Hi, I'm **Fran Alapont Sánchez**, a Master's student at **EDEM**. I am currently part of the inference team in Nextbit256 and my main focus is to learn as much as I can of AI. Here I will post some of my work throughout this year.
-
-## 🔎 Explore
-
-Take a look at [my GitHub profile](https://github.com/franalapontedem) to see what I'm working on.
