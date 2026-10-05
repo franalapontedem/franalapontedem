@@ -37,9 +37,4 @@ This GitHub is where I'll share some of the projects, experiments and work I dev
 Feel free to explore my repositories and follow along with what I'm building and learning.
 
 👉 [github.com/franalapontedem](https://github.com/franalapontedem)
-<h3>🎓 Master's student at EDEM</h3>
 
-<a href="https://github.com/franalapontedem"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-franalapontedem-1b2340?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://github.com/franalapontedem?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/franalapontedem?style=for-the-badge&amp;color=6554d6&amp;labelColor=1b2340&amp;logo=github" /></a>
-
-</div>
